@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "productName": "Example product",
+        "productImage": "../../public/product-placeholder.webp",
+        "productPrice": 10990
+    },
+    {
+        "id": 2,
+        "productName": "Example product",
+        "productImage": "../../public/product-placeholder.webp",
+        "productPrice": 10990
+    },
+    {
+        "id": 3,
+        "productName": "Example product",
+        "productImage": "../../public/product-placeholder.webp",
+        "productPrice": 10990
+    }
+]
