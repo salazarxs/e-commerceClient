@@ -7,6 +7,7 @@ import Register from "./components/Register";
 import Login from "./components/Login";
 import Nav from "./components/Nav";
 import AllProducts from "./components/AllProdcuts";
+import Product from "./components/Product";
 
  
 const App = ()=>{
@@ -18,6 +19,7 @@ const App = ()=>{
       <Route element={<Register/>} path="/register"/>
       <Route element={<Login/>} path="/login" />
       <Route element={<AllProducts/>} path="/products" />
+      <Route element={<Product/>} path="/product/:id" />
     </Routes>
     </BrowserRouter>
 
